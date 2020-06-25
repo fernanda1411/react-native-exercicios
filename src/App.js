@@ -10,7 +10,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Simples texto='HOJE TEM!!!!' />
-        <ParImpar numero={34} />
+        <ParImpar numero={45} />
       </View>
     )
   }
